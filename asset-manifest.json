@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/helloworld-react-typescript/static/css/main.39eb32ed.chunk.css",
-    "main.js": "/helloworld-react-typescript/static/js/main.37de15d1.chunk.js",
-    "main.js.map": "/helloworld-react-typescript/static/js/main.37de15d1.chunk.js.map",
+    "main.js": "/helloworld-react-typescript/static/js/main.e73196b5.chunk.js",
+    "main.js.map": "/helloworld-react-typescript/static/js/main.e73196b5.chunk.js.map",
     "runtime-main.js": "/helloworld-react-typescript/static/js/runtime-main.610c21ef.js",
     "runtime-main.js.map": "/helloworld-react-typescript/static/js/runtime-main.610c21ef.js.map",
     "static/js/2.2da2df80.chunk.js": "/helloworld-react-typescript/static/js/2.2da2df80.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.610c21ef.js",
     "static/js/2.2da2df80.chunk.js",
     "static/css/main.39eb32ed.chunk.css",
-    "static/js/main.37de15d1.chunk.js"
+    "static/js/main.e73196b5.chunk.js"
   ]
 }
