@@ -52,7 +52,7 @@
             <td>Lets you write actual CSS in your JavaScript. This means you can use all the features of CSS you use and love, including (but by far not limited to) media queries, all pseudo-selectors, nesting, etc.</td>
           </tr>
           <tr>
-            <td><code>npm install --D react-app-rewired react-app-rewire-alias</code></td>
+            <td><code>npm install -D react-app-rewired react-app-rewire-alias</code></td>
             <td>Folder aliases</td>
           </tr>     
         </tbody>
