@@ -3,7 +3,7 @@
   <section>
     <article>
       <p align="center"> 
-        <img alt="Tech" src="docs/assets/img/tech.jpg" title="Tech" width="400" />      
+        <img alt="Tech" src="theme/assets/img/tech.jpg" title="Tech" width="400" />      
       </p>
     </article>
   </section>
@@ -13,7 +13,7 @@
   <section>
     <article>
       <h1>
-        <img src="docs/assets/img/javascript.png" alt="Javascript" title="Javascript" /> 
+        <img src="theme/assets/img/javascript.png" alt="Javascript" title="Javascript" /> 
         helloworld:<a href="https://es.reactjs.org/" rel="external" title="Webpack">react</a>
       </h1>
       <p>
@@ -28,7 +28,7 @@
     <article>
       <h2>Preview</h2> 
       <p align="center"> 
-        <img alt="Theme preview" src="docs/assets/img/theme-preview.png" title="Theme preview" width="400" />      
+        <img alt="Theme preview" src="theme/assets/img/theme-preview.png" title="Theme preview" width="400" />      
       </p>
     </article>
   </section>
