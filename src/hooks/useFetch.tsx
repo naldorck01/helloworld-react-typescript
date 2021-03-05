@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react"
+import { useEffect, useState } from "react"
 
 const useFetch = (url: string) => {
   const [response, setResponse] = useState([])
@@ -23,8 +23,8 @@ const useFetch = (url: string) => {
   }
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/exhaustive-deps
     populateResponse()
-    console.log(response)
   }, [])
 
   return [response, loading] as const
