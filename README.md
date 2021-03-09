@@ -113,6 +113,16 @@
             <td><code>-</code></td>
             <td>Create React App project with TypeScript</code>
           </tr>
+          <tr>
+            <td><code>npx create-react-app my-app --template cra-template-pwa-typescript</code></td>
+            <td><code>-</code></td>
+            <td>Create React App project with TypeScript and PWA with workbox</code>
+          </tr>
+          <tr>
+            <td><code>npx create-react-app my-app --template cra-template-pwa</code></td>
+            <td><code>-</code></td>
+            <td>Create React App project with PWA and workbox</code>
+          </tr>
         </tbody>
       </table>
     </article>
