@@ -6,7 +6,8 @@
       "@Interfaces/*": ["./src/interfaces/*"],
       "@Css/*": ["./src/assets/css/*"],
       "@Img/*": ["./src/assets/img/*"],
-      "@Hooks/*": ["./src/hooks/*"]
+      "@Hooks/*": ["./src/hooks/*"],
+      "@Pages/*": ["./src/pages/*"]
     }
   }
 }

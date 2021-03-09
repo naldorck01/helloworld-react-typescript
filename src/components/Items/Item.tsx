@@ -1,3 +1,4 @@
+import React from "react"
 import { Covid } from "../../interfaces/Covid"
 
 const Item = ({ data }: { data: Covid }): JSX.Element => {
@@ -20,4 +21,4 @@ const Item = ({ data }: { data: Covid }): JSX.Element => {
   )
 }
 
-export default Item
+export default React.memo(Item)

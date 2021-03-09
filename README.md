@@ -54,7 +54,11 @@
           <tr>
             <td><code>npm install -D react-app-rewired react-app-rewire-alias</code></td>
             <td>Folder aliases</td>
-          </tr>     
+          </tr>    
+          <tr>
+            <td><code>npm install react-helmet @types/react-helmet</code></td>
+            <td>This reusable React component will manage all of your changes to the document head.</td>
+          </tr>   
         </tbody>
       </table>      
     </article>
